@@ -22,3 +22,4 @@ Minimax: A decision rule for minimizing the possible loss for a worst case (maxi
 
 Alpha-Beta Pruning: An optimization for the Minimax algorithm that significantly reduces the number of nodes evaluated in the search tree.
 
+
